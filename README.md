@@ -1,3 +1,4 @@
+
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
@@ -32,11 +33,14 @@
 
 ## Input:
 
+![image](https://github.com/Jeevithha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/123623197/1ca6b749-677f-4cf4-bf81-2745461dfcd3)
+
 ### Output:
 
+![image](https://github.com/Jeevithha/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/123623197/4cad31a3-eab0-43e9-a872-c5922889dbb2)
 
-### Name:
-### Register Number:
+### Name:JEEVITHA S
+### Register Number:212222100016
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
